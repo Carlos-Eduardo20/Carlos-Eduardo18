@@ -1,7 +1,16 @@
 # Olá! Sou o Carlos Eduardo 🖐️
-  🎯 Estudante de Ciência da Computação<br>
-  📚 Atualmente estudando C, JavaScript e Java<br>
-    🇺🇸 Inglês: Básico → Intermediário<br>
+  🎯 Estudante de Bacharelado em Ciência da Computação.<br>
+  🚀 Apaixonado por tecnologia, lógica e desenvolvimento de software.<br>
+  🌍 **Inglês:** Praticando e evoluindo do nível Básico para o Intermediário.<br>
+
+Para deixar o visual mais moderno, aqui estão as tecnologias organized por badges interativas:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
+| **Front-end** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Banco de Dados**| ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+
 
 ## 👨‍💻Tecnologias e Ferramentas
 
