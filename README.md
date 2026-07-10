@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM_HOLOGRAFICA_DE_TOPO_AQUI" alt="Holographic Top Banner" width="100%">
+  <img src="https://media.istockphoto.com/id/2183471547/pt/vetorial/abstract-glowing-hexagonal-lines-on-dark-blue-background-digital-futuristic-technology.jpg?s=612x612&w=0&k=20&c=wPdrEVeSPKBW-gpu0qYoWO7_Xy0IJ4h2UcMLUuJ-cdE=" alt="Holographic Top Banner" width="100%">
 </p>
 
 # Olá! Sou o Carlos Eduardo 🖐️
@@ -48,5 +48,5 @@ Clique nos ícones abaixo para acessar as minhas redes:
 </p>
 
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM_HOLOGRAFICA_DE_RODAPE_AQUI" alt="Holographic Bottom Banner" width="100%">
+  <img src="https://media.istockphoto.com/id/2183471547/pt/vetorial/abstract-glowing-hexagonal-lines-on-dark-blue-background-digital-futuristic-technology.jpg?s=612x612&w=0&k=20&c=wPdrEVeSPKBW-gpu0qYoWO7_Xy0IJ4h2UcMLUuJ-cdE=" alt="Holographic Bottom Banner" width="100%">
 </p>
