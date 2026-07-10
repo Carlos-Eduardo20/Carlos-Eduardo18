@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.istockphoto.com/id/2183471547/pt/vetorial/abstract-glowing-hexagonal-lines-on-dark-blue-background-digital-futuristic-technology.jpg?s=612x612&w=0&k=20&c=wPdrEVeSPKBW-gpu0qYoWO7_Xy0IJ4h2UcMLUuJ-cdE=" alt="Holographic Top Banner" width="100%">
-</p>
-
 # Olá! Sou o Carlos Eduardo 🖐️
   🎯 Estudante de Bacharelado em Ciência da Computação.<br>
   🚀 Apaixonado por tecnologia, lógica e desenvolvimento de software.<br>
@@ -45,8 +41,4 @@ Clique nos ícones abaixo para acessar as minhas redes:
   <a href="https://twitter.com/SEU_TWITTER_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.istockphoto.com/id/2183471547/pt/vetorial/abstract-glowing-hexagonal-lines-on-dark-blue-background-digital-futuristic-technology.jpg?s=612x612&w=0&k=20&c=wPdrEVeSPKBW-gpu0qYoWO7_Xy0IJ4h2UcMLUuJ-cdE=" alt="Holographic Bottom Banner" width="100%">
 </p>
