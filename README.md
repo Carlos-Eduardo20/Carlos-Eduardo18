@@ -15,17 +15,6 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organized por badg
   | **Banco de Dados**| <img align="center" alt="Carlos-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> |
 </div>
 
-### 📊 Minhas Estatísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo20&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180px"/>
-</p>
-
-### 🔥 Histórico de Contribuições
-
-![Gráfico de Linha de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Eduardo20&theme=dark)
-
 ## 🔥 Quantidade de commits
 
 <div align="center">
