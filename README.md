@@ -19,7 +19,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organized por badg
 ## 🔥 Linguagem mais usada
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/chat?username=Carlos-Eduardo20&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=compact&theme=dracula&count_private=true" alt="Linguagens mais usadas" />
 </p>
 
 ### 📂 Projetos Principais
