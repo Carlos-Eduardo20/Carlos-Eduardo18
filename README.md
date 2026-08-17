@@ -16,6 +16,12 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organized por badg
   | **Banco de Dados**| <img align="center" alt="Carlos-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> |
 </div>
 
+## 🔥 Linguagem mais usada
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards/top-languages?username=Carlos-Eduardo20&theme=dracula" alt="Linguagens mais usadas" />
+</p>
+
 ### 📂 Projetos Principais
 
 *   **[Novo Portfólio Dev](https://github.com/Carlos-Eduardo20/Novo-PortifolioDev):** Meu portfólio pessoal moderno para expor meus projetos e evolução.
