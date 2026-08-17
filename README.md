@@ -15,10 +15,10 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organized por badg
   | **Banco de Dados**| <img align="center" alt="Carlos-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> |
 </div>
 
-## 🔥 Quantidade de commits
+## 🔥 Linguage mais usada
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Carlos-Eduardo20&theme=tokyonight"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### 📂 Projetos Principais
