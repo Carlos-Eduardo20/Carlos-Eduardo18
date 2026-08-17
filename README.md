@@ -6,17 +6,19 @@
 
 ## 👨‍💻 Tecnologias e Ferramentas
 
-Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por badges interativas:
+Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por categorias:
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Carlos-C](https://githubusercontent.com) ![Carlos-Java](https://githubusercontent.com) ![Carlos-Js](https://githubusercontent.com) ![Carlos-Python](https://githubusercontent.com) ![Carlos-Kotlin](https://githubusercontent.com) |
-| **Front-end** | ![Carlos-HTML](https://githubusercontent.com) ![Carlos-CSS](https://githubusercontent.com) |
-| **Banco de Dados** | ![Carlos-SQL](https://githubusercontent.com) |
+| **Linguagens** | <img src="https://jsdelivr.net" width="40" height="40" alt="C" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Java" /> <img src="https://jsdelivr.net" width="40" height="40" alt="JS" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Kotlin" /> |
+| **Front-end** | <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" /> <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" /> |
+| **Banco de Dados** | <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" /> |
 
 ## 🔥 Linguagem mais usada
 
-![Barras das linguagens mais usadas](https://shields.io)
+<p align="center">
+  <img src="https://shields.io" alt="Barras das linguagens mais usadas" />
+</p>
 
 ### 📂 Projetos Principais
 
@@ -26,6 +28,8 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ba
 
 ### 🌐 Vamos nos conectar?
 
-Clique nos ícones abaixo para acessar as minhas redes:
+Clique no ícone abaixo para acessar a minha rede:
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
