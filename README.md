@@ -17,7 +17,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ba
 ## 🔥 Linguagem mais usada
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Carlos-Eduardo20&layout=compact&theme=dracula" alt="Gráfico das linguagens mais usadas por Carlos Eduardo" />
+  <img src="https://img.shields.io/badge/Top%20Langs-C%20(85%25)%20%7C%20Java%20(10%25)%20%7C%20Python%20(5%25)-dracula?style=for-the-badge&labelColor=333" alt="Barras das linguagens mais usadas" />
 </p>
 
 ### 📂 Projetos Principais
