@@ -16,7 +16,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organized por badg
   | **Banco de Dados**| <img align="center" alt="Carlos-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> |
 </div>
 
-## 🔥 Linguage mais usada
+## 🔥 Linguagem mais usada
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
