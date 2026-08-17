@@ -10,7 +10,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ca
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img src="https://jsdelivr.net" width="40" height="40" alt="C" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Java" /> <img src="https://jsdelivr.net" width="40" height="40" alt="JS" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Kotlin" /> |
+| **Linguagens** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Java" /> <img src="https://jsdelivr.net" width="40" height="40" alt="JS" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Kotlin" /> |
 | **Front-end** | <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" /> <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" /> |
 | **Banco de Dados** | <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" /> |
 
