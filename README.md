@@ -1,8 +1,8 @@
 # Olá! Sou o Carlos Eduardo 🖐️
 
-🎯 Estudante de Bacharelado em Ciência da Computação.<br>
-🚀 Apaixonado por tecnologia, lógica e desenvolvimento de software.<br>
-🌍 **Inglês:** Praticando e evoluindo do nível Básico para o Intermediário.<br>
+🎯 Estudante de Bacharelado em Ciência da Computação.</br>
+🚀 Apaixonado por tecnologia, lógica e desenvolvimento de software.</br>
+🌍 **Inglês:** Praticando e evoluindo do nível Básico para o Intermediário.</br>
 
 ## 👨‍💻 Tecnologias e Ferramentas
 
@@ -10,9 +10,9 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ba
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img align="center" alt="Carlos-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="Carlos-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Carlos-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Carlos-Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> |
-| **Front-end** | <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
-| **Banco de Dados** | <img align="center" alt="Carlos-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> |
+| **Linguagens** | <img alt="Carlos-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img alt="Carlos-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img alt="Carlos-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img alt="Carlos-Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> |
+| **Front-end** | <img alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
+| **Banco de Dados** | <img alt="Carlos-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> |
 
 ## 🔥 Linguagem mais usada
 
