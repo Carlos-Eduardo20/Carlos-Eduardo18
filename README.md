@@ -5,7 +5,8 @@
 
 ## 👨‍💻Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+<br>
 Para deixar o visual mais moderno, aqui estão as tecnologias organized por badges interativas:
 
   | Categoria | Tecnologias |
@@ -17,9 +18,9 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organized por badg
 
 ## 🔥 Linguage mais usada
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
 
 ### 📂 Projetos Principais
 
