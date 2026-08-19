@@ -1,8 +1,8 @@
 # Olá! Sou o Carlos Eduardo 🖐️
 
-🎯 Estudante de Bacharelado em Ciência da Computação.
-🚀 Apaixonado por tecnologia, lógica e desenvolvimento de software.
-🌍 **Inglês:** Praticando e evoluindo do nível Básico para o Intermediário.
+🎯 Estudante de Bacharelado em Ciência da Computação.<br>
+🚀 Apaixonado por tecnologia, lógica e desenvolvimento de software.<br>
+🌍 **Inglês:** Praticando e evoluindo do nível Básico para o Intermediário.<br>
 
 ## 👨‍💻 Tecnologias e Ferramentas
 
@@ -10,26 +10,28 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ca
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Java" /> <img src="https://jsdelivr.net" width="40" height="40" alt="JS" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Kotlin" /> |
-| **Front-end** | <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" /> <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" /> |
-| **Banco de Dados** | <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" /> |
+| **Linguagens** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="28" height="28"/> |
+| **Front-end** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="28" height="28"/> |
+| **Banco de Dados** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="28"/> |
 
 ## 🔥 Linguagem mais usada
 
 <p align="center">
-  <img src="https://shields.io" alt="Barras das linguagens mais usadas" />
+  <img src="https://img.shields.io/badge/Linguagens-C%20%7C%20Java%20%7C%20Python%20%7C%20JS-dracula?style=for-the-badge&labelColor=282a36" alt="Linguagens mais usadas" />
 </p>
 
 ### 📂 Projetos Principais
 
-* **[Novo Portfólio Dev](https://github.com):** Meu portfólio pessoal moderno para expor meus projetos e evolução.
-* **[Lista de Exercícios em C](https://github.com):** Repositório focado no aprofundamento de lógica de programação.
-* **[Estudos de Recursividade](https://github.com):** Desafios práticos aplicando conceitos de recursão em C.
+* **[Novo Portfólio Dev](https://github.com/Carlos-Eduardo20):** Meu portfólio pessoal moderno para expor meus projetos e evolução.
+* **[Lista de Exercícios em C](https://github.com/Carlos-Eduardo20):** Repositório focado no aprofundamento de lógica de programação.
+* **[Estudos de Recursividade](https://github.com/Carlos-Eduardo20):** Desafios práticos aplicando conceitos de recursão em C.
 
 ### 🌐 Vamos nos conectar?
 
 Clique no ícone abaixo para acessar a minha rede:
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlos-eduardo20/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
